@@ -17,56 +17,34 @@ I am an aspiring developer working toward full-stack proficiency, with a current
 
 ## 「 TECH STACK 」
 
-### ▍ Frontend
-
 <p align="center">
-  <img src="assets/tech-stack/html5.svg" alt="HTML5" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/css3.svg" alt="CSS3" width="300" />
+  <img src="assets/tech-stack/html5.svg" alt="HTML5" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/css3.svg" alt="CSS3" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/javascript.svg" alt="JavaScript" width="200" height="67" />
 </p>
 <p align="center">
-  <img src="assets/tech-stack/javascript.svg" alt="JavaScript" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/nextjs.svg" alt="Next.js" width="300" />
-</p>
-
-### ▍ Backend
-
-<p align="center">
-  <img src="assets/tech-stack/nodejs.svg" alt="Node.js" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/expressjs.svg" alt="Express.js" width="300" />
-</p>
-
-### ▍ Database & Backend Services
-
-<p align="center">
-  <img src="assets/tech-stack/mysql.svg" alt="MySQL" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/postgresql.svg" alt="PostgreSQL" width="300" />
+  <img src="assets/tech-stack/nextjs.svg" alt="Next.js" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/nodejs.svg" alt="Node.js" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/expressjs.svg" alt="Express.js" width="200" height="67" />
 </p>
 <p align="center">
-  <img src="assets/tech-stack/supabase.svg" alt="Supabase" width="300" />
+  <img src="assets/tech-stack/mysql.svg" alt="MySQL" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/postgresql.svg" alt="PostgreSQL" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/supabase.svg" alt="Supabase" width="200" height="67" />
 </p>
-
-### ▍ Mobile Development
-
 <p align="center">
-  <img src="assets/tech-stack/flutter.svg" alt="Flutter" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/dart.svg" alt="Dart" width="300" />
+  <img src="assets/tech-stack/flutter.svg" alt="Flutter" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/dart.svg" alt="Dart" width="200" height="67" />
+  &nbsp;
+  <img src="assets/tech-stack/git.svg" alt="Git" width="200" height="67" />
 </p>
-
-### ▍ Tools & Design
-
 <p align="center">
-  <img src="assets/tech-stack/git.svg" alt="Git" width="300" />
-  &nbsp;&nbsp;
-  <img src="assets/tech-stack/figma.svg" alt="Figma" width="300" />
+  <img src="assets/tech-stack/figma.svg" alt="Figma" width="200" height="67" />
 </p>
-
----
-
-## 「 CONTACT 」
-
-GitHub: [https://github.com/1harvester](https://github.com/1harvester)
